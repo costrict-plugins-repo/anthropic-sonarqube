@@ -1,0 +1,23 @@
+{
+  "name": "sonarqube",
+  "version": "2.7.0",
+  "displayName": "SonarQube",
+  "description": "Analyze code with SonarQube, review issues and security hotspots, check quality gates, and inspect test coverage",
+  "shortDescription": "Code quality and security verification",
+  "author": {
+    "name": "Sonar",
+    "url": "https://www.sonarsource.com/"
+  },
+  "keywords": [
+    "sonarqube",
+    "code-quality",
+    "static-analysis",
+    "security",
+    "secrets"
+  ],
+  "license": "SSAL-1.0",
+  "repository": "https://github.com/SonarSource/sonarqube-agent-plugins",
+  "homepage": "https://www.sonarsource.com",
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json"
+}
