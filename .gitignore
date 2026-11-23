@@ -1,0 +1,23 @@
+# Claude Code
+.claude/
+
+# Node.js
+node_modules/
+
+# Environment variables (contains secrets)
+.env
+.env.local
+
+# SonarQube
+.scannerwork/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
